@@ -9,3 +9,4 @@ Proyecto fin de año 2016
 * Deudores -> id,id_alquiler,fecha_alta_deudores
 * Notificaciones -> id,id_alquiler,fecha,tipo_notificacion,texto_notificacion
 * Auditoria -> id,id_deuda,fecha_alta,fecha_baja,fecha_telegrama
+ANDA A LA CANCHA BOBO!!
