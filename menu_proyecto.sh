@@ -1,6 +1,6 @@
 #!/bin/bash 
 clear
-while [ "$var" !=5 ]
+while [ "$var" != 5 ]
 do
         echo "
                 1) Ingresar pago
