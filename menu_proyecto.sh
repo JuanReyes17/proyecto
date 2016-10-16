@@ -15,7 +15,7 @@ case $var in
 2) ./estado.sh;;
 3) ./situacion.sh;;
 4) ./atrasos.sh;;
-5) echo salir...
-* echo Opcion incorrecta
+5) echo saliendo...;;
+*) echo Opcion incorrecta
 esac
 done
