@@ -11,11 +11,11 @@ do
                 Ingrese opción: "
         read var
 case $var in
-1) ./ingreso.sh;;
+1) ./metodo_pago.sh;;
 2) ./estado.sh;;
 3) ./situacion.sh;;
 4) ./atrasos.sh;;
-5) echo saliendo...;;
-*) echo Opcion incorrecta
+5) echo -e '\e[0;36m Saliendo...\e[0m' ; sleep 1;;
+*) echo -e '\e[0;31m Opción incorrecta\e[0m' ; sleep 1
 esac
 done
