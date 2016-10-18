@@ -2,7 +2,7 @@
 clear
 while [ "$var" != 3 ]
 do
-        echo "
+        echo "  ¿De que forma desea abonar?
                 1) Al contado
                 2) Verificar pago a través de la banca electrónica
                 3) Volver
