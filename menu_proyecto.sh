@@ -2,7 +2,7 @@
 clear
 while [ "$var" != 5 ]
 do
-        echo "
+        echo "  ¿Qué desea relizar?
                 1) Ingresar pago
                 2) Emitir estado de cuenta
                 3) Situación de cada propietario
