@@ -11,7 +11,7 @@ do
         case $var in
                 1) ./ingreso.sh;;
                 2) ./verificar.sh;;
-                3) echo Regresando... ; sleep 1;;
-                *) echo Opcion incorrecta ; sleep 1
+                3) echo -e '\e[0;32m Regresando...\e[0m'; sleep 1;;
+                *) echo -e '\e[0;31m Opción incorrecta\e[0m'; sleep 1
         esac
 done                                                                            
